@@ -60,3 +60,4 @@ jacoco.exec
 
 # SonarQube
 .sonar/
+/target/
